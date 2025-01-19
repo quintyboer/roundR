@@ -28,5 +28,5 @@ c(0.5, 1.5, 2.5, 3.5) \%>\% rounder()
 
 }
 \author{
-Gerko Vink \email{g.vink@uu.nl} and Hanne Oberman \email{h.i.oberman@uu.nl}
+Quinty Boer \email{q.e.boer@students.uu.nl}
 }
